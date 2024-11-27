@@ -11,11 +11,11 @@ A simple PDF reader and editor application built with React.
 
 ### PDF Viewer
 
-![PDF Viewer](./screenshots/pdf-viewer.png)
+![Home Page](./Screenshots/1.png)
 
-### PDF Editor (coming soon)
+![Upload Complete](./Screenshots/2.png)
 
-![PDF Editor](./screenshots/pdf-editor.png)
+![Edit PDF](./Screenshots/3.png)
 
 ## Getting Started
 
